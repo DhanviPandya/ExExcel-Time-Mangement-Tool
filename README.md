@@ -1,1 +1,1 @@
-# ExExcel-Time-Mangement-Tool
+# Excel-Time-Mangement-Tool
